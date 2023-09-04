@@ -1,0 +1,3 @@
+## Always initialize and update a Readme file for all your new Projects.
+
+### It's a good way to let people know what you're working on...
